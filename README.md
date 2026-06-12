@@ -36,12 +36,12 @@ Inventory Alignment: Address the gap between reserved_room_type and assigned_roo
 Proactive Confirmation Triggers: Leverage risk profiling features (e.g., high lead time + zero deposit) to trigger automated confirmation emails or SMS updates 7 days prior to arrival.
 
 📂 Project Structure
-📂 Project Structure
+```text
 ├── Data/
 │   └── hotel_bookings.csv       # Dataset containing 119k reservation records
 ├── Untitled.ipynb               # Jupyter Notebook containing data cleaning, EDA, and visualizations
-└── README.md                    # Project documentation
-📈 Future Scope
+└── README.md                    # Project documentation ```
+Future Scope
 Build a Machine Learning Classification Model (e.g., Logistic Regression, Random Forest, or XGBoost) to predict the probability of a reservation status changing to is_canceled == 1.
 
 Develop an interactive dashboard using Tableau or Power BI to monitor real-time cancellation rates across various market se
