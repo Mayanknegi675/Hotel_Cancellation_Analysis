@@ -40,7 +40,9 @@ Proactive Confirmation Triggers: Leverage risk profiling features (e.g., high le
 ├── Data/
 │   └── hotel_bookings.csv       # Dataset containing 119k reservation records
 ├── Untitled.ipynb               # Jupyter Notebook containing data cleaning, EDA, and visualizations
-└── README.md                    # Project documentation ```
+└── README.md                    # Project documentation
+```
+
 Future Scope
 Build a Machine Learning Classification Model (e.g., Logistic Regression, Random Forest, or XGBoost) to predict the probability of a reservation status changing to is_canceled == 1.
 
