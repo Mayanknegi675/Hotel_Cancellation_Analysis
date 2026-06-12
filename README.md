@@ -36,7 +36,7 @@ Inventory Alignment: Address the gap between reserved_room_type and assigned_roo
 Proactive Confirmation Triggers: Leverage risk profiling features (e.g., high lead time + zero deposit) to trigger automated confirmation emails or SMS updates 7 days prior to arrival.
 
 📂 Project Structure
-Plaintext
+📂 Project Structure
 ├── Data/
 │   └── hotel_bookings.csv       # Dataset containing 119k reservation records
 ├── Untitled.ipynb               # Jupyter Notebook containing data cleaning, EDA, and visualizations
